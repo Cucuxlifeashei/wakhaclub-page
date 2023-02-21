@@ -1,0 +1,70 @@
+
+.container-carrousel{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.Arrow-left{
+    height: 40px;
+    width: 40px;
+    color: black;
+    rotate: 180deg;
+}
+
+.Arrow-left:hover{
+    scale: 1.1;
+    animation-duration: 300;
+    cursor: pointer;
+    
+}
+
+.Arrow-rigth{
+    height: 30px;
+    width: 30px;
+    color: rgb(255, 246, 246);
+}
+
+.Arrow-rigth:hover{
+    scale: 1.1;
+    animation-duration: 300;
+    cursor: pointer;
+    
+}
+
+.container-images{
+   
+}
+
+
+
+.container-images img {
+    width: 1000px;
+}
+
+@media (max-width: 768px){
+
+    .container-carrousel{
+        width: 100%;
+    }
+
+    .Arrow-left{
+        color: rgb(255, 255, 255);
+        position: absolute;
+        right: 90%;
+    }
+
+    .container-images img{
+        width: 100%;
+        border-radius: 0px;
+    }
+
+    .Arrow-rigth{
+        position: absolute;
+        color: #FFF;
+        left: 90%;
+        
+
+    }
+}

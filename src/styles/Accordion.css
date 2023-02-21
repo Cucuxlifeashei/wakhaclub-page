@@ -1,0 +1,35 @@
+.container-accordion{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255);
+    box-shadow : 0 0 20px 0 rgba(76, 87, 125, 0.211);
+    height: 80vh;
+    margin-bottom: 100px;
+    padding-top: 20px;
+}
+
+.accordion{
+    width: 100%;
+}
+
+.accordion .item .accordion-header button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    box-shadow: none;
+    font-weight: 600;
+}
+
+.accordion-header h6 {
+    margin-bottom : 0px;
+   justify-content: center;
+   font-weight: 600;
+}
+
+
+.accordion-item{
+    padding: 30px;
+}

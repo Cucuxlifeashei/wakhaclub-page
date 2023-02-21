@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,400&display=swap');
+
+*{
+    font-family: "Poppins";
+}
+#root{
+    background-color: #fbf6f0;
+}
+.container-information{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 80px;
+    background-color: rgb(255, 255, 255);
+    box-shadow : 0 0 20px 0 rgba(76, 87, 125, 0.211);
+    width: 90%;
+    margin-bottom: 100px;
+}
+
+.container-options{
+    margin-top: 30px;
+}
+.container-options ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 100px;
+    list-style: none;
+    padding: 0;
+}
+
+.container-options ul li  {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    font-family: "poppins";
+    font-weight: 600;
+    box-shadow : 0 0 20px 0 rgba(76, 87, 125, 0.211);
+    color: #000000 ;
+}
+
+.container-options ul li:hover {
+    color: 818593;
+    cursor: pointer;
+}
+
+.options{
+    opacity: 60%;
+    font-size: 15px;
+}
+
+.options:hover{
+    opacity: 100%;
+}
+.icons{
+    width: 40px;
+    
+}
+
+
+.marked {
+    opacity: 200%;
+    font-size: 14px;
+}
+
+
+@media (max-width: 799px) {
+    .container-options ul{
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+        
+    }
+
+}

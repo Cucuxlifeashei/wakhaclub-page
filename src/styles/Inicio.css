@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+html, body {
+    font-size: 16px;
+     height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .container-inicio {
+    background-size: cover;
+    background-position: center;
+    height: 92.9vh;
+    background-image: url(/src/assets/background.jpg);
+  }
+  
+  .container-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container-logo {
+    margin-top: 13.0rem;
+  }
+  
+  .container-logo img {
+    width: 31.25rem;
+    height: 8.125rem;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .container-text {
+    color: #fff;
+    font-size: 2.5rem;
+    font-weight: 700;
+  }
+  
+  .container-boton button {
+    background-color: transparent;
+    border-radius: 0.3125rem;
+    border: 0.1875rem solid #fff;
+    outline: none;
+    color: #fff;
+    padding: 0.3125rem 1.25rem;
+    font-size: 1.25rem;
+  }
+  
+  .container-boton button:hover {
+    background-color: rgba(0, 0, 0, 0.735);
+    color: #fff;
+    border: 0.1875rem solid rgba(255, 255, 255, 0);
+  }
+  
+  .container-social p {
+    font-size: 1.25rem;
+    color: #fff;
+    font-weight: 700;
+  }
+  
+  @media (max-width: 49.9375em) {
+
+    .container-inicio {
+      background-size: cover;
+      background-position: center;
+      height: 87  vh;
+      background-image: url(/src/assets/background.jpg);
+    }
+
+    html {
+      font-size: 87.5%;
+    }
+  
+    .container-logo {
+      margin-top: 15.75rem;
+    }
+  
+    .container-logo img {
+      width: 24.375rem;
+      height: 6.5625rem;
+    }
+  
+    .container-text {
+      font-size: 2rem;
+    }
+  
+    .container-mobile {
+      flex-shrink: 0
+    }
+}

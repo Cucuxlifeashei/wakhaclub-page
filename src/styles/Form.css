@@ -1,0 +1,49 @@
+form{
+    background-color: transparent;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.form-email input{
+    padding: 10px;
+}
+
+.form-text textarea{
+    display: flex;
+    justify-content: center;
+
+}
+
+.form-control{
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 1300px){
+
+    .container-form{
+        padding: 0px;
+        width: 100% !important;
+
+    }
+
+    .form{
+        width: 100% !important;
+        margin-top: 15px;
+    }
+
+    .container-btn{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .btn{
+        margin: 20px 0px 0px 0px!important;
+    }
+
+}

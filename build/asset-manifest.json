@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/wakhaclub-page/build/static/css/main.5cddaa94.css",
+    "main.js": "/wakhaclub-page/build/static/js/main.1f30d6c3.js",
+    "static/js/787.8b3344b4.chunk.js": "/wakhaclub-page/build/static/js/787.8b3344b4.chunk.js",
+    "static/media/background.jpg": "/wakhaclub-page/build/static/media/background.fd05cb2ca1dd3eaf973f.jpg",
+    "static/media/hero-mobile.png": "/wakhaclub-page/build/static/media/hero-mobile.782d6b72f507ded2aea5.png",
+    "static/media/Hero.jpg": "/wakhaclub-page/build/static/media/Hero.2e63e1975b2fbb1397a8.jpg",
+    "static/media/VoucherDama.jpg": "/wakhaclub-page/build/static/media/VoucherDama.c9398216037be2ffc0b2.jpg",
+    "static/media/VoucherN5.jpg": "/wakhaclub-page/build/static/media/VoucherN5.e9c3fadf8dec678e334d.jpg",
+    "static/media/VoucherN3.jpg": "/wakhaclub-page/build/static/media/VoucherN3.f656ec697385ad318787.jpg",
+    "static/media/VoucherN2.jpg": "/wakhaclub-page/build/static/media/VoucherN2.59a5c8ee18b2d5b30e4a.jpg",
+    "static/media/VoucherN4.jpg": "/wakhaclub-page/build/static/media/VoucherN4.da63245f22c009df29c4.jpg",
+    "static/media/VoucherN1.jpg": "/wakhaclub-page/build/static/media/VoucherN1.f4fe0513645be2d5d4c7.jpg",
+    "static/media/EntradaDama.jpg": "/wakhaclub-page/build/static/media/EntradaDama.067c2ed5f817c769e3d3.jpg",
+    "static/media/EntradaConConsumo.jpg": "/wakhaclub-page/build/static/media/EntradaConConsumo.b4ae2271ec8841f90d14.jpg",
+    "static/media/EntradaSinConsumo.jpg": "/wakhaclub-page/build/static/media/EntradaSinConsumo.aa1c3dc111f219463c30.jpg",
+    "static/media/RomaVip.jpg": "/wakhaclub-page/build/static/media/RomaVip.abbb64f0162e21d14bd5.jpg",
+    "static/media/WAKHA-PISTA-LOGO.jpg": "/wakhaclub-page/build/static/media/WAKHA-PISTA-LOGO.a6191d8475665061b89f.jpg",
+    "static/media/KrugVip.jpg": "/wakhaclub-page/build/static/media/KrugVip.0dc0d62b1b2ec43d5fa2.jpg",
+    "static/media/AnubisVip.jpg": "/wakhaclub-page/build/static/media/AnubisVip.604037f1785e3afaadfe.jpg",
+    "static/media/logo-ekinoxio.png": "/wakhaclub-page/build/static/media/logo-ekinoxio.0d2198307eb0fa73da4a.png",
+    "static/media/wakhalogo.png": "/wakhaclub-page/build/static/media/wakhalogo.9d801cd219b4f217270e.png",
+    "index.html": "/wakhaclub-page/build/index.html",
+    "main.5cddaa94.css.map": "/wakhaclub-page/build/static/css/main.5cddaa94.css.map",
+    "main.1f30d6c3.js.map": "/wakhaclub-page/build/static/js/main.1f30d6c3.js.map",
+    "787.8b3344b4.chunk.js.map": "/wakhaclub-page/build/static/js/787.8b3344b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cddaa94.css",
+    "static/js/main.1f30d6c3.js"
+  ]
+}
